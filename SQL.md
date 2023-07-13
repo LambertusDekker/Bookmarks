@@ -2,12 +2,11 @@
 
 **_SQL Docs_**
 
-- [SSMS](https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16)
-- [DataProfiling](https://dataedo.com/kb/query/sql-server/data-profiling-data-quality)
+1. [SSMS](https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16)
+2. [DataProfiling](https://dataedo.com/kb/query/sql-server/data-profiling-data-quality)
+3. [Database Start](https://www.databasestar.com/sql-practice/)
 
-- [Database Start](https://www.databasestar.com/sql-practice/)
-
-- A few online platforms that will help you play with SQL once you learn the basics are **_StrataScratch, SQLPad, SQLBolt, Leetcode_**.
+> A few online platforms that will help you play with SQL once you learn the basics are **_StrataScratch, SQLPad, SQLBolt, Leetcode_**.
 
 **_DB Beheer_**
 
