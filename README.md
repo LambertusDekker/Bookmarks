@@ -9,3 +9,5 @@
 2. [Blog Links](https://learn.g2.com/open-data-sources)
 3. [Datavisualization](https://research.lib.buffalo.edu/dataviz/best-practices)
 4. [Datascience Central](https://www.datasciencecentral.com/)
+5. [RapidAPI](https://rapidapi.com/hub)
+
