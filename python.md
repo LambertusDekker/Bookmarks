@@ -10,7 +10,7 @@
 6. [OpenPyXl](https://openpyxl.readthedocs.io/en/stable/)
 7. [PyIcloud](https://github.com/picklepete/pyicloud)
 
-## Connecting to a Azure SQL server database
+## Connecting to a database
 ```python
 import urllib
 import pandas as pd
