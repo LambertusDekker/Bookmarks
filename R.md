@@ -3,7 +3,8 @@
 - https://cran.r-project.org/manuals.html
 - https://cran.r-project.org/
 
-'''R
+'''r
+
 library(odbc)
 
 server_ <- "mydatabase.here.windows.net,1234"
