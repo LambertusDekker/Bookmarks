@@ -1,6 +1,6 @@
 # Everyting Python
 
-## Documentation & Librarie
+## Documentation & Libraries
 
 1. [Python Standard Library](https://docs.python.org/3/library/index.html)
 2. [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
