@@ -1,9 +1,9 @@
 # Bookmarks
 
-- [Python](python.md)
-- [R](R.md)
-- [Julia](Julia.md)
-- [SQL](SQL.md)
+1. [Python](python.md)
+2. [R](R.md)
+3. [Julia](Julia.md)
+4. [SQL](SQL.md)
 
 ## General
 
