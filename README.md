@@ -1,5 +1,3 @@
-# Bookmarks
-
 1. [Python](python.md)
 2. [R](R.md)
 3. [Julia](Julia.md)
