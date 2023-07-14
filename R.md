@@ -11,8 +11,6 @@ database_ <- "DATABASNAME"
 username_ <- "USERNAME"
 password_ <- "PASSWORD"
 
-
-# Creating connection
 con <- dbConnect(
     drv = odbc::odbc(),
     Driver = "SQL Server",
