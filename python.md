@@ -1,4 +1,4 @@
-# Everyting Python
+# Everything Python
 
 ## Documentation & Libraries
 
