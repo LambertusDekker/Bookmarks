@@ -1,4 +1,4 @@
 # Bookmarks
 
-[Python](python.md)
-[Julia](Julia.md)
+- [Python](python.md)
+- [Julia](Julia.md)
