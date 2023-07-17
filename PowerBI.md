@@ -1,10 +1,12 @@
-**_Drill Through_**
+# PowerBI
+
+### Drill Through
 
 - [Create Buttons](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-drill-through-buttons)
 - [Pages](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-drillthrough)
 - The Feature
 
-**_Formatting Strings & Numbers_**
+### Formatting Strings & Numbers
 
 1. Format Function [MS](https://learn.microsoft.com/en-us/dax/format-function-dax) / [SQLBI](https://dax.guide/format/)
 2. Dynamic Formatting:
@@ -24,11 +26,11 @@
 
 source: [Display Formatting Strings](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-custom-format-strings) / [video](https://www.youtube.com/watch?v=FVjtWouD5Fw)
 
-**_currencies_**
+### Currencies
 
 1. https://gist.github.com/voskobovich/43f851859c23a8261514
 
-**_Conditional Formatting_**
+### Conditional Formatting
 
 1. [Hevo](https://hevodata.com/learn/power-bi-conditional-formatting/#2)
 
@@ -36,7 +38,7 @@ source: [Display Formatting Strings](https://learn.microsoft.com/en-us/power-bi/
 
 1. [DAX snippets](.\Snippets\DAX\)
 
-**_Localization in PowerBI, Excel & Windows_**
+### Localization in PowerBI, Excel & Windows
 
 1. [Format Functie in PowerBI](https://learn.microsoft.com/en-us/dax/format-function-dax)
 2. [Country Region and Language Codes](https://support.microsoft.com/en-us/topic/country-region-and-language-codes-add36afe-804a-44f1-ae68-cfb9c9b72f8b)
@@ -59,9 +61,9 @@ source: [Display Formatting Strings](https://learn.microsoft.com/en-us/power-bi/
 
 1. [Drilltrough reports](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-drillthrough)
 
-### Design
+## Design
 
-**_Theming_**
+### Theming
 
 1. [Power BI Theming](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-scripts)
 2. [!YT](https://youtu.be/ubk5smogosk)
