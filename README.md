@@ -2,6 +2,7 @@
 2. [R](R.md)
 3. [Julia](Julia.md)
 4. [SQL](SQL.md)
+5. [PowerBI](PowerBI.md)
 
 ## General
 
