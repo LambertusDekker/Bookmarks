@@ -10,7 +10,13 @@
 6. [OpenPyXl](https://openpyxl.readthedocs.io/en/stable/)
 7. [PyIcloud](https://github.com/picklepete/pyicloud)
 
-## Connecting to a database
+## Primers
+
+1. [VENVs](https://realpython.com/python-virtual-environments-a-primer/)
+
+## Snippets
+
+### Connecting to a database
 ```python
 import urllib
 import pandas as pd
