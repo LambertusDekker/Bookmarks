@@ -9,3 +9,10 @@
 | Fast F1      |                                                                                                                | [Fast F1](https://github.com/theOehrly/Fast-F1)                | [f1 viz](https://github.com/jessbuildsthings/f1-viz)                   |
 | Wetterdienst |                                                                                                                | [Wetterdienst](https://wetterdienst.readthedocs.io/en/latest/) | [wetterdienst example](https://wetterdienst.readthedocs.io/en/latest/) |
 | MeteoStat    | [dev.meteostat...](https://dev.meteostat.net/)                                                                 | [MeteoStat](https://pypi.org/project/meteostat/)               |                                                                        |
+
+### Training resources
+
+1. AdventureWorks
+   1. [Download](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+   2. [How to Use](https://medium.com/learning-sql/eadventureworks-database-427e59144bc0)
+2. Iris.csv
