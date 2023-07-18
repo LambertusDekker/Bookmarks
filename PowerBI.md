@@ -67,3 +67,60 @@ source: [Display Formatting Strings](https://learn.microsoft.com/en-us/power-bi/
 
 1. [Power BI Theming](https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-scripts)
 2. [!YT](https://youtu.be/ubk5smogosk)
+
+**_Visualisation, Design, UI & UX_**
+
+1. [Power BI visuals documentation](https://learn.microsoft.com/en-us/power-bi/developer/visuals/)
+2. [GitHub Dataviz](https://github.com/bkrsln/dataviz)
+3. [HTML5 Tags in tags](https://bisamurai.com/custom-visuals-knowledge-base/bold-italic-underline-power-bi/)
+4. [Claus Wilke](https://clauswilke.com/dataviz/index.html)
+5. Dashboard voorbeelden [Pinterest](https://www.pinterest.com/search/pins/?q=dashboard&rs=typed) / [FreePik](https://www.pinterest.com/search/pins/?q=dashboard&rs=typed) / [Adobe](https://stock.adobe.com/nl/search?k=Dashboard+&search_type=usertyped)
+6. WireFraming and Mockups [Figma](https://www.figma.com/)
+7. YT! [Guy In A Cube](https://www.youtube.com/watch?v=zaFTAT6_jCs) / [DataPears](https://www.youtube.com/@datapears) / [How to Power BI](https://www.youtube.com/@HowtoPowerBI)
+8. [Adobe Design Principles](https://www.adobe.com/express/learn/blog/8-basic-design-principles-to-help-you-create-better-graphics) / [Adobe Design Blog](https://www.adobe.com/express/learn/blog/tags/design)
+9. [UX Laws](https://cdn2.hubspot.net/hubfs/2799924/Infographics/Infographic-The-Laws-of-UX-Toptal.pdf)
+10.
+
+### Visuals
+
+**_Developing in PowerBI_**
+
+1.  [Developing Visuals](https://learn.microsoft.com/en-us/power-bi/create-reports/)
+
+**_SVG for Visuals_**
+
+1. [Super Charge your visuals with in Power BI with svg](https://medium.com/microsoft-power-bi/supercharge-your-data-visualizations-with-svgs-in-power-bi-4df3b89bec85)
+2. [Hat Full of Data](https://hatfullofdata.blog/svg-in-power-bi-part-1/)
+3. [Bing](https://www.bing.com/search?q=using+svg+in+power+bi&qs=SC&pq=using+svg+in+powerbi&sc=10-20&cvid=7572CFA1111545FBA6D409DB4C158A01&sp=1&lq=0&first=11&FORM=PERE)
+
+**_Vega & Deneb_**
+
+- [Vega](https://vega.github.io/vega/) /
+- [Deneb](https://deneb-viz.github.io/simple-example) / [AppSource](https://appsource.microsoft.com/en-us/product/PowerBIVisuals/coacervolimited1596856650797.deneb?exp=kyyw)
+- [Blog](https://kerrykolosko.com/exploring-deneb-for-power-bi/)
+
+**_also nuttig_**
+
+1. [Empty character](https://emptycharacter.com/)
+2. [Unicodes](https://symbl.cc/en/)
+3. [Flags](https://flagpedia.net/download/api) / [flags 2](https://github.com/risan/country-flag-emoji-json)
+4. [SVG repo](https://www.svgrepo.com/collections/filled/)
+5. [PureViz / Powerpoint als Visual ontwerper](https://pureviz.net/infographic)
+
+**_PowerQuery_**
+
+[MS Learn](https://learn.microsoft.com/en-us/power-query/power-query-what-is-power-query)
+
+**_Parameterize PowerQuery_**
+
+1. [Power Query Snippets](C:\Users\bert.dekker\Documents\Notes\Snippets\M)
+2. ![Parameterize PowerQuery](Pics/230411-125354.png)
+
+**_External Tools for PowerBI_**
+
+1. [Analysis Services Tools](https://learn.microsoft.com/en-us/analysis-services/tools-and-applications-used-in-analysis-services?view=asallproducts-allversions)
+2. [Tabular Editor](https://tabulareditor.github.io/)
+3. [DAX studio](https://daxstudio.org/docs/intro/) /
+4. Bravo
+5. [ALM Toolkit](http://alm-toolkit.com/)
+6. VertiPac Analyser
