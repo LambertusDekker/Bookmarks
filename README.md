@@ -3,7 +3,7 @@
 3. [Julia](Julia.md)
 4. [SQL](SQL.md)
 5. [PowerBI](PowerBI.md)
-6. [Data Sources](Data Sources.md) 
+6. [Data Sources](DataSources.md) 
 
 ## General
 
