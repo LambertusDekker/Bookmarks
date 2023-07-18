@@ -1,4 +1,4 @@
-1. [Python](python.md)
+1. [Python](Python.md)
 2. [R](R.md)
 3. [Julia](Julia.md)
 4. [SQL](SQL.md)
