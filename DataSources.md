@@ -13,6 +13,6 @@
 ### Training resources
 
 1. AdventureWorks
-   1. [Download](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
-   2. [How to Use](https://medium.com/learning-sql/eadventureworks-database-427e59144bc0)
+   - [Download](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
+   - [How to Use](https://medium.com/learning-sql/eadventureworks-database-427e59144bc0)
 2. Iris.csv
