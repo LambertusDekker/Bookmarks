@@ -1,5 +1,7 @@
 # Everything Python
 
+- [gto76](https://gto76.github.io/python-cheatsheet)
+
 ## Documentation & Libraries
 
 1. [Python Standard Library](https://docs.python.org/3/library/index.html)
