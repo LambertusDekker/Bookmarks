@@ -6,3 +6,8 @@
 4. [Learn](https://julialang.org/learning/)
 5. [Julia By Example](https://juliabyexample.helpmanual.io/)
 6. [JuliaBloggers](https://www.juliabloggers.com/)
+
+### Books & Docs
+
+1. [Julia DataScience](https://juliadatascience.io/juliadatascience.pdf)
+2. 
