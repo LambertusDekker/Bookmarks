@@ -5,9 +5,8 @@
 
 ### News
 
-3. [Discourse](https://discourse.julialang.org/)
-
-6. [JuliaBloggers](https://www.juliabloggers.com/)
+- [Discourse](https://discourse.julialang.org/)
+- [JuliaBloggers](https://www.juliabloggers.com/)
 
 ### Books & Docs
 
