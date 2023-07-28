@@ -1,10 +1,12 @@
 ## Julia
 
+- [Downloads](https://julialang.org/downloads/)
 - [Github](https://github.com/JuliaLang/julia)
 - [Packages](https://juliahub.com/ui/Home)
 
 ### News
 
+- [News](https://github.com/JuliaLang/julia/blob/v1.10.0-beta1/NEWS.md)
 - [Discourse](https://discourse.julialang.org/)
 - [JuliaBloggers](https://www.juliabloggers.com/)
 
