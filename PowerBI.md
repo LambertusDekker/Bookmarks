@@ -1,10 +1,16 @@
 # PowerBI
 
+## General
+
+
+[Optimizing](https://learn.microsoft.com/en-us/power-bi/guidance/)
+
+## Making Reports
+
 ### Drill Through
 
 - [Create Buttons](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-drill-through-buttons)
 - [Pages](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-drillthrough)
-- The Feature
 
 ### Formatting Strings & Numbers
 
