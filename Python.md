@@ -1,10 +1,5 @@
 # Everything Python
 
-'''txt
-testje joh!
-'''
-
-- [Python Standard Library](https://docs.python.org/3/library/index.html)
 - [gto76](https://gto76.github.io/python-cheatsheet)
 
 ## Books
