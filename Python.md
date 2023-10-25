@@ -7,7 +7,6 @@
 
 ## Documentation & Libraries
 
-
 2. [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
 3. [SQLAlchemy](https://stackoverflow.com/questions/53704187/connecting-to-an-azure-database-using-sqlalchemy-in-python)
 4. [Python Docx](https://stackabuse.com/reading-and-writing-ms-word-files-in-python-via-python-docx-module/)
@@ -18,8 +17,6 @@
 ## Primers
 
 1. [VENVs](https://realpython.com/python-virtual-environments-a-primer/)
-
-## Snippets
 
 ### Connecting to a database
 ```python
