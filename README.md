@@ -1,9 +1,14 @@
+# Readme.md
+
+## Table of Contents
+
 1. [Python](Python.md)
 2. [R](R.md)
 3. [Julia](Julia.md)
 4. [SQL](SQL.md)
 5. [PowerBI](PowerBI.md)
 6. [Data Sources](DataSources.md) 
+7.  [Statistics](Statistics.md)
 
 ## General
 

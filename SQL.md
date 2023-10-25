@@ -3,6 +3,7 @@
 ## Books 
 
 - [Use the Index](https://use-the-index-luke.com/)
+- [Faster Quering](https://www.dropbox.com/scl/fi/c78ugxqych6nfvwumxg23/EN-AU-CNTNT-eBook-DBMC-SQL-Server-performance-faster-querying-with-SQL-Server.pdf?rlkey=dp63e0jlesx6kxb4nuzoapri8&dl=0)
 
 **_SQL Docs_**
 
