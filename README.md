@@ -3,12 +3,13 @@
 ## Table of Contents
 
 1. [Python](Python.md)
+1. [Rust](Rust.md)
 2. [R](R.md)
 3. [Julia](Julia.md)
 4. [SQL](SQL.md)
 5. [PowerBI](PowerBI.md)
 6. [Data Sources](DataSources.md) 
-7.  [Statistics](Statistics.md)
+7. [Statistics](Statistics.md)
 
 ## General
 
@@ -17,4 +18,3 @@
 3. [Datavisualization](https://research.lib.buffalo.edu/dataviz/best-practices)
 4. [Datascience Central](https://www.datasciencecentral.com/)
 5. [RapidAPI](https://rapidapi.com/hub)
-
