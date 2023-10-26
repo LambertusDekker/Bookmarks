@@ -10,6 +10,7 @@
 5. [PowerBI](PowerBI.md)
 6. [Data Sources](DataSources.md) 
 7. [Statistics](Statistics.md)
+8. [Visualization](Visualization.md)
 
 ## General
 
