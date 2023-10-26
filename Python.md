@@ -1,4 +1,4 @@
-# Everything Python
+# Python
 
 - [gto76](https://gto76.github.io/python-cheatsheet)
 
