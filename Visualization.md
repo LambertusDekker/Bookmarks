@@ -14,6 +14,12 @@
 2. [SWD chart guide](https://www.storytellingwithdata.com/chart-guide)
 3. [Dataviz project](https://datavizproject.com/)
 
+## Dashboard Design
+
+1. [Guidelines for Report Dashboard Design](https://rbranger.wordpress.com/2014/07/26/simple-guidelines-for-more-efficient-report-dashboard-design/)
+
 ## Lijsten
 
 1. [DataViz](https://github.com/bkrsln/dataviz)
+2. [Visuals Guides ](https://coolinfographics.com/dataviz-guides)
+3. [FT Design Guide](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary)

@@ -91,19 +91,17 @@ source: [Display Formatting Strings](https://learn.microsoft.com/en-us/power-bi/
 
 **_Developing in PowerBI_**
 
-1.  [Developing Visuals](https://learn.microsoft.com/en-us/power-bi/create-reports/)
+1. [Developing Visuals](https://learn.microsoft.com/en-us/power-bi/create-reports/)
+2. [Charticulator](https://charticulator.com/docs/user-interaction.html#data-driven-guides)
+3. [Deneb](https://deneb-viz.github.io/simple-example) / [AppSource](https://appsource.microsoft.com/en-us/product/PowerBIVisuals/coacervolimited1596856650797.deneb?exp=kyyw)
+   - [Vega](https://vega.github.io/vega/) /
+   - [Blog](https://kerrykolosko.com/exploring-deneb-for-power-bi/)
 
 **_SVG for Visuals_**
 
 1. [Super Charge your visuals with in Power BI with svg](https://medium.com/microsoft-power-bi/supercharge-your-data-visualizations-with-svgs-in-power-bi-4df3b89bec85)
 2. [Hat Full of Data](https://hatfullofdata.blog/svg-in-power-bi-part-1/)
 3. [Bing](https://www.bing.com/search?q=using+svg+in+power+bi&qs=SC&pq=using+svg+in+powerbi&sc=10-20&cvid=7572CFA1111545FBA6D409DB4C158A01&sp=1&lq=0&first=11&FORM=PERE)
-
-**_Vega & Deneb_**
-
-- [Vega](https://vega.github.io/vega/) /
-- [Deneb](https://deneb-viz.github.io/simple-example) / [AppSource](https://appsource.microsoft.com/en-us/product/PowerBIVisuals/coacervolimited1596856650797.deneb?exp=kyyw)
-- [Blog](https://kerrykolosko.com/exploring-deneb-for-power-bi/)
 
 **_also nuttig_**
 

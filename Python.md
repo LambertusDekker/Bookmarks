@@ -7,6 +7,7 @@
 
 ## Documentation & Libraries
 
+1. [Python Frameworks Overview](https://pythonframeworks.com/)
 2. [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
 3. [SQLAlchemy](https://stackoverflow.com/questions/53704187/connecting-to-an-azure-database-using-sqlalchemy-in-python)
 4. [Python Docx](https://stackabuse.com/reading-and-writing-ms-word-files-in-python-via-python-docx-module/)
@@ -14,7 +15,7 @@
 6. [OpenPyXl](https://openpyxl.readthedocs.io/en/stable/)
 7. [PyIcloud](https://github.com/picklepete/pyicloud)
 
-## Primers
+## Tutorials
 
 1. [VENVs](https://realpython.com/python-virtual-environments-a-primer/)
 
