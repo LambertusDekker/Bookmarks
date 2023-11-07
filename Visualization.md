@@ -23,3 +23,9 @@
 1. [DataViz](https://github.com/bkrsln/dataviz)
 2. [Visuals Guides ](https://coolinfographics.com/dataviz-guides)
 3. [FT Design Guide](https://github.com/Financial-Times/chart-doctor/tree/main/visual-vocabulary)
+
+## Utilities
+
+1. [empty character](https://emptycharacter.com/)
+2. [lordicon(gif icons)](https://lordicon.com/)
+3. 

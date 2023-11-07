@@ -11,7 +11,7 @@
 6. [Data Sources](DataSources.md) 
 7. [Statistics](Statistics.md)
 8. [Visualization](Visualization.md)
-9. [Business Analysis](Business Analysis.md)
+9. [Business Analysis](BusinessAnalysis.md)
 
 
 ## General
