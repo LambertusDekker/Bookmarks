@@ -18,7 +18,7 @@
 
 1. [Guidelines for Report Dashboard Design](https://rbranger.wordpress.com/2014/07/26/simple-guidelines-for-more-efficient-report-dashboard-design/)
 
-## Lijsten
+## Collections
 
 1. [DataViz](https://github.com/bkrsln/dataviz)
 2. [Visuals Guides ](https://coolinfographics.com/dataviz-guides)
@@ -28,4 +28,4 @@
 
 1. [empty character](https://emptycharacter.com/)
 2. [lordicon(gif icons)](https://lordicon.com/)
-3. 
+3. [unicode](https://symbl.cc/en/)
