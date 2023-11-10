@@ -29,3 +29,4 @@
 1. [empty character](https://emptycharacter.com/)
 2. [lordicon(gif icons)](https://lordicon.com/)
 3. [unicode](https://symbl.cc/en/)
+4. [flagpedia](https://flagpedia.net/)
