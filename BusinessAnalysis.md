@@ -5,4 +5,5 @@
 
 ## Video
 
-- [@babootcamp](https://www.youtube.com/@babootcamp4282/videos)
+1. [Babok V3 Intro](https://www.youtube.com/watch?v=8-z4peD0zoI)
+2. [@babootcamp](https://www.youtube.com/@babootcamp4282/videos)
