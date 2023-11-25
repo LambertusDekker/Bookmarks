@@ -22,6 +22,12 @@
 
 ## Snippets & other Code
 
+### Install Libaries when not have full admin rights
+
+```python
+python -m pip install mitmproxy
+```
+
 ### Connecting to a database
 ```python
 import urllib
