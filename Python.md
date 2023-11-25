@@ -18,6 +18,9 @@
 ## Tutorials
 
 1. [VENVs](https://realpython.com/python-virtual-environments-a-primer/)
+2. [SuperFastPython](https://superfastpython.com/multiprocessing-pool-python/ )
+
+## Snippets & other Code
 
 ### Connecting to a database
 ```python
