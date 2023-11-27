@@ -2,9 +2,6 @@
 
 - [gto76](https://gto76.github.io/python-cheatsheet)
 
-## Books
-- [Think Python](https://greenteapress.com/thinkpython/thinkpython.pdf)
-
 ## Documentation & Libraries
 
 1. [Python Frameworks Overview](https://pythonframeworks.com/)
@@ -14,6 +11,11 @@
 5. [PDF2DocX](https://dothinking.github.io/pdf2docx/quickstart.convert.html)
 6. [OpenPyXl](https://openpyxl.readthedocs.io/en/stable/)
 7. [PyIcloud](https://github.com/picklepete/pyicloud)
+
+## Books
+
+1. [Think Python](https://greenteapress.com/thinkpython/thinkpython.pdf)
+2. [Python Cookbook 3ed.](http://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-Cookbook-3rd-Edition.pdf)
 
 ## Tutorials
 
