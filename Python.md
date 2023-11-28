@@ -24,10 +24,12 @@
 
 ## Snippets & other Code
 
-### Install Libaries when not have full admin rights
+### Install Libaries without full admin rights
 
 ```python
 python -m pip install mitmproxy
+
+# https://stackoverflow.com/a/37222682
 ```
 
 ### Connecting to a database
