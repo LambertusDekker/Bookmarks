@@ -128,3 +128,9 @@ source: [Display Formatting Strings](https://learn.microsoft.com/en-us/power-bi/
 4. Bravo
 5. [ALM Toolkit](http://alm-toolkit.com/)
 6. VertiPac Analyser
+
+## Tips and Trics
+
+### highlighting the min and max value in a matrix
+
+1. [SQLBI](https://www.sqlbi.com/articles/highlighting-the-minimum-and-maximum-values-in-a-power-bi-matrix/)
