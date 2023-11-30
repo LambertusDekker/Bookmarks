@@ -1,7 +1,7 @@
 # Business Analysis
 
-- [BA for beginners](https://betterauds.com/businesses/demystifying-business-analysis-beginners-guide/)
-- [Babok](https://www.dropbox.com/scl/fi/rs5iesmk5um7mw2d0iswb/BABOK_V3.pdf)
+1. [BA for beginners](https://betterauds.com/businesses/demystifying-business-analysis-beginners-guide/)
+2. [Babok](https://www.dropbox.com/scl/fi/rs5iesmk5um7mw2d0iswb/BABOK_V3.pdf)
 
 ## Training
 
@@ -14,3 +14,5 @@
 
 1. [IIBA St. Louis](https://stlouis.iiba.org/template-library)
 2. 
+
+# Project managment
