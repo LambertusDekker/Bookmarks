@@ -21,3 +21,8 @@
 3. [Datavisualization](https://research.lib.buffalo.edu/dataviz/best-practices)
 4. [Datascience Central](https://www.datasciencecentral.com/)
 5. [RapidAPI](https://rapidapi.com/hub)
+
+## YOUTUBE lijstjes
+
+1. https://datasciencedojo.com/blog/data-science-channels-youtube/#
+2. https://medium.com/machine-learning-world/best-popular-science-youtube-channels-767a73add30a
