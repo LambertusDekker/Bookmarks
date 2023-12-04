@@ -3,6 +3,7 @@
 1. [BA for beginners](https://betterauds.com/businesses/demystifying-business-analysis-beginners-guide/)
 <!-- 2. [Babok](https://www.dropbox.com/scl/fi/rs5iesmk5um7mw2d0iswb/BABOK_V3.pdf) -->
 2. [Babok](https://www.dropbox.com/scl/fi/p1z7nt5odw4cqc8abs85i/BABOK_V3.pdf)
+3. [Github](https://github.com/jerzydziewierz/PMBOK-doc-templates)
 
 ## Training
 
