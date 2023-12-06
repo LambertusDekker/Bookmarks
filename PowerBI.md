@@ -32,6 +32,10 @@
 
 source: [Display Formatting Strings](https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-custom-format-strings) / [video](https://www.youtube.com/watch?v=FVjtWouD5Fw)
 
+### Dynamic Fomatting
+
+source: [Dynamic Formatting files and video](https://datatraining.io/path-player?courseid=howtopowerbifiles&unit=6477526131ea2cad5a064ed8Unit)
+
 ### Currencies
 
 1. https://gist.github.com/voskobovich/43f851859c23a8261514
