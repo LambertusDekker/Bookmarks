@@ -13,7 +13,6 @@
 8. [Visualization](Visualization.md)
 9. [Business Analysis](BusinessAnalysis.md)
 
-
 ## General
 
 1. [Top 100 op Medium](https://medium.com/analytics-vidhya/top-100-open-source-datasets-for-data-science-cd5a8d67cc3d)
@@ -27,3 +26,20 @@
 1. https://datasciencedojo.com/blog/data-science-channels-youtube/#
 2. https://medium.com/machine-learning-world/best-popular-science-youtube-channels-767a73add30a
 3. https://microsoft.github.io/AI-For-Beginners/
+
+## Lijst
+
+Sun 
+Mozilla 
+MS 
+Linux 
+
+### Oracle 
+
+1. [numerical](https://docs.oracle.com/cd/E19957-01/806-3568/ncgTOC.html)
+2. [floating point](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
+
+IBM 
+Unix 
+Apple 
+Hp 

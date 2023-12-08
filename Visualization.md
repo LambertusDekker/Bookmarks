@@ -28,5 +28,8 @@
 
 1. [empty character](https://emptycharacter.com/)
 2. [lordicon(gif icons)](https://lordicon.com/)
-3. [unicode](https://symbl.cc/en/)
+3. [unicode.org](https://www.unicode.org/versions/latest/)
+    1. [old versions](https://www.unicode.org/versions/enumeratedversions.html )
+    1. [unicode](https://symbl.cc/en/)
+    1. [unicode finder - https://tell.wtf/](https://tell.wtf/)
 4. [flagpedia](https://flagpedia.net/)
