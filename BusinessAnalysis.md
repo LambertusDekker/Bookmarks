@@ -3,6 +3,10 @@
 1. [BA for beginners](https://betterauds.com/businesses/demystifying-business-analysis-beginners-guide/)
 2. [Babok](https://www.dropbox.com/scl/fi/p1z7nt5odw4cqc8abs85i/BABOK_V3.pdf)
 
+## PrinceII
+
+https://yourprojectmanager.com.au/7-core-project-documents-prince2-projects/
+
 ## Training
 
 1. [Babok V3 Intro](https://www.youtube.com/watch?v=8-z4peD0zoI)
