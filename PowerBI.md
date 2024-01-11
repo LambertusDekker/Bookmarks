@@ -138,3 +138,5 @@ source: [Dynamic Formatting files and video](https://datatraining.io/path-player
 ### highlighting the min and max value in a matrix
 
 1. [SQLBI](https://www.sqlbi.com/articles/highlighting-the-minimum-and-maximum-values-in-a-power-bi-matrix/)
+2. [DAX Info Queries](https://powerbi.microsoft.com/en-us/blog/dax-query-view-introduces-new-info-dax-functions/)
+
