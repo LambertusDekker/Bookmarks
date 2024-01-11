@@ -21,3 +21,7 @@ https://yourprojectmanager.com.au/7-core-project-documents-prince2-projects/
 
 # Project managment
 
+# Lezen
+
+- https://www.linkedin.com/pulse/babok-bazen-over-business-analyse-kimberley-barnas/?originalSubdomain=nl
+- https://www.linkedin.com/pulse/project-managers-you-doing-business-analysis-yet-ale%C5%A1-piln%C3%BD/
