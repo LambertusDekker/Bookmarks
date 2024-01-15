@@ -57,3 +57,4 @@ print("Engine:", engine)
 ## Bronnen
 
 1. [best python trainingen en andere bronnen](https://medium.com/javarevisited/10-best-python-3-courses-on-udemy-ddd4e3ec5dbf)
+2. [https://pyviz.org/]
