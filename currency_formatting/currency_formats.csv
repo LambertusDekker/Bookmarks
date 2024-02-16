@@ -1,4 +1,4 @@
-country_code;unicode;format
+currency_code;unicode;format
 AED;1583;#,0.00 ((symbol))
 AFN;1547;#,0.00 ((symbol))
 ALL;76;((symbol)) #,0.00
