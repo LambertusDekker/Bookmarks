@@ -21,25 +21,23 @@
 4. [Datascience Central](https://www.datasciencecentral.com/)
 5. [RapidAPI](https://rapidapi.com/hub)
 
+### Data Eco Systems
+
+1. [McKinsey](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward/data-ecosystems-made-simple)
+
+
 ## YOUTUBE lijstjes
 
 1. https://datasciencedojo.com/blog/data-science-channels-youtube/#
 2. https://medium.com/machine-learning-world/best-popular-science-youtube-channels-767a73add30a
 3. https://microsoft.github.io/AI-For-Beginners/
 
-## Lijst
+## Unicode
 
-Sun 
-Mozilla 
-MS 
-Linux 
+1. https://home.unicode.org
+2. 
 
 ### Oracle 
 
 1. [numerical](https://docs.oracle.com/cd/E19957-01/806-3568/ncgTOC.html)
 2. [floating point](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
-
-IBM 
-Unix 
-Apple 
-Hp 
