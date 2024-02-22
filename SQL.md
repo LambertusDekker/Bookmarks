@@ -1,5 +1,9 @@
 # SQL
 
+https://www.datacamp.com/cheat-sheet/sql-joins-cheat-sheet
+https://images.datacamp.com/image/upload/v1679944054/Marketing/Blog/Joining_Data_in_SQL_Cheat_Sheet.pdf
+
+
 ## Books 
 
 - [Use the Index](https://use-the-index-luke.com/)
