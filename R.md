@@ -1,3 +1,7 @@
+# R Books
+
+[R for Datascience](https://r4ds.had.co.nz)
+
 # Everything R
 
 - https://cran.r-project.org/manuals.html
