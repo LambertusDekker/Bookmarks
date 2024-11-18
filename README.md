@@ -38,6 +38,7 @@
 
 1. https://home.unicode.org
 2. [xtte](https://www.smashingmagazine.com/2012/06/all-about-unicode-utf8-character-sets/)
+1. [Tomsky the minimum you need to know about unicode](https://tonsky.me/blog/unicode/)
 
 ### Oracle 
 
