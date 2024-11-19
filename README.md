@@ -1,10 +1,13 @@
 # Readme.md
 
-## Table of Contents
+## Programming
 
 1. [Python](Links/Programming/Python.md)
 1. [C/C++](Links/Programming/C-CPP.md)
 1. [Rust](Links/Programming/Rust.md)
+
+## Datascience
+
 2. [R](Links/Datascience/R.md)
 3. [Julia](Links/Datascience/Julia.md)
 4. [SQL](Links/Datascience/SQL.md)
