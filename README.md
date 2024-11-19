@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1. [Python](Python.md)
-1. [C/C++](C-CPP.md)
+1. [C/C++](Links/C-CPP.md)
 1. [Rust](Links/Rust.md)
 2. [R](R.md)
 3. [Julia](Julia.md)
