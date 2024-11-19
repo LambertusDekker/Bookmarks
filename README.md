@@ -4,7 +4,7 @@
 
 1. [Python](Python.md)
 1. [C/C++](C-CPP.md)
-1. [Rust](Rust.md)
+1. [Rust](Links/Rust.md)
 2. [R](R.md)
 3. [Julia](Julia.md)
 4. [SQL](SQL.md)
@@ -36,7 +36,7 @@
 
 ## Unicode
 
-1. https://home.unicode.org
+1. [unicode.org](https://home.unicode.org)
 2. [xtte](https://www.smashingmagazine.com/2012/06/all-about-unicode-utf8-character-sets/)
 1. [Tomsky the minimum you need to know about unicode](https://tonsky.me/blog/unicode/)
 
