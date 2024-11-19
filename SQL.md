@@ -37,7 +37,7 @@ Snippet Verzamelingen
 
 ### SQL Performance & Keuzes
 
-[Query Store](https://learn.microsoft.com/en-us/sql/relational-databases/performance/monitoring-performance-by-using-the-query-store)
+[Query Store](https://learn.microsoft.com/en-us/sql/relational-databases/performance/monitoring-performance-by-using-the-query-store) / 
 [BLobs](https://stackoverflow.com/questions/5613898/storing-images-in-sql-server) / [Large Blobs & Filestream](https://learn.microsoft.com/en-us/sql/relational-databases/blob/binary-large-object-blob-data-sql-server?view=sql-server-ver16)
 
 
