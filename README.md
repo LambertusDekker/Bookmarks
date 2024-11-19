@@ -1,10 +1,12 @@
-# Programming
+# Links
+
+## Programming
 
 1. [Python](Links/Programming/Python.md)
 1. [C/C++](Links/Programming/C-CPP.md)
 1. [Rust](Links/Programming/Rust.md)
 
-# Datascience
+## Datascience
 
 1. [R](Links/Datascience/R.md)
 1. [Julia](Links/Datascience/Julia.md)
