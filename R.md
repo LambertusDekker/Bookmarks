@@ -1,11 +1,8 @@
-# R Books
+# R Doccs
 
+[R project](https://cran.r-project.org/)
+[R Manuals](https://cran.r-project.org/manuals.html)
 [R for Datascience](https://r4ds.hadley.nz)
-
-# Everything R
-
-- https://cran.r-project.org/manuals.html
-- https://cran.r-project.org/
 
 ```r
 library(odbc)
