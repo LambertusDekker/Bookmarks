@@ -1,4 +1,4 @@
-# R Doccs
+# R Doccss
 
 [R project](https://cran.r-project.org/)
 [R Manuals](https://cran.r-project.org/manuals.html)
