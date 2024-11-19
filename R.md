@@ -1,9 +1,10 @@
-# R Doccss
+# R Docs
 
-[R project](https://cran.r-project.org/)
-[R Manuals](https://cran.r-project.org/manuals.html)
-[R for Datascience](https://r4ds.hadley.nz)
+-   [R project](https://cran.r-project.org/)
+-   [R Manuals](https://cran.r-project.org/manuals.html)
+-   [R for Datascience](https://r4ds.hadley.nz)
 
+## SQL connection with R
 ```r
 library(odbc)
 
