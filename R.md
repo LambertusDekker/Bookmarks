@@ -1,6 +1,6 @@
 # R Books
 
-[R for Datascience](https://r4ds.had.co.nz)
+[R for Datascience](https://r4ds.hadley.nz)
 
 # Everything R
 
