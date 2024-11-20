@@ -1,6 +1,8 @@
 # Links
 
 1. [Business Analysis](Links/BusinessAnalysis.md)
+2. [Mac](Links/mac.md)
+3. [Windows](Links/windows.md)
 
 ## Programming
 
