@@ -1,4 +1,6 @@
-# Some Data Sources
+# Data Sources
+
+## with API sources
 
 | Naam         | API User Guide                                                                                                 | python lib                                                     | App                                                                    |
 | :----------- | :------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------- | :--------------------------------------------------------------------- |
@@ -10,7 +12,7 @@
 | Wetterdienst |                                                                                                                | [Wetterdienst](https://wetterdienst.readthedocs.io/en/latest/) | [wetterdienst example](https://wetterdienst.readthedocs.io/en/latest/) |
 | MeteoStat    | [dev.meteostat...](https://dev.meteostat.net/)                                                                 | [MeteoStat](https://pypi.org/project/meteostat/)               |                                                                        |
 
-### Training resources
+## Training resources
 
 1. AdventureWorks
    - [Download](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
