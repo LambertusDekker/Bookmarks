@@ -7,7 +7,7 @@
 
 1. [Julia](Julia.md)
 1. [R](r.md)
-1. [SQL](SQL.md)
+   1. [SQL](SQL.md)
 
 ## PowerBI
 
