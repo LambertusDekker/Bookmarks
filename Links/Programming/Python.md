@@ -54,7 +54,22 @@ engine = create_engine(connection_string)     # creates the engine and can be re
 
 print("Engine:", engine)
 ```
+-----
 
+### create a new venv
+
+```bash
+# make the project directory
+mkdir myproject
+cd myproject
+# then make the venv
+python3 -m venv .venv
+# now activate the venv
+. .venv/bin/activate
+
+# for more info read the docs:
+# https://docs.python.org/3/library/venv.html
+```
 ## Bronnen
 
 1. [best python trainingen en andere bronnen](https://medium.com/javarevisited/10-best-python-3-courses-on-udemy-ddd4e3ec5dbf)
