@@ -22,7 +22,6 @@
 1. [VENVs](https://realpython.com/python-virtual-environments-a-primer/)
 2. [SuperFastPython](https://superfastpython.com/multiprocessing-pool-python/ )
 
-
 ## Snippets & other Code
 
 ### Install Libaries without full admin rights
