@@ -1,6 +1,6 @@
 # Links
 
-1. [Business Analysis](Links/BusinessAnalysis.md)
+1. [Business Analysis](Links/businessAnalysis.md)
 2. [Mac](Links/mac.md)
 3. [Windows](Links/windows.md)
 4. [Pi](Links/philosophy.md)
